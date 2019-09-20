@@ -1,0 +1,2 @@
+# Mvvm
+Manual packaging mvvm
